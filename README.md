@@ -40,7 +40,7 @@
 </div>
 <div align="center">
     <h2 align="center">⚡ Backend ⚡</h2>
-    <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,flask,mysql,postgress" /><br>
+    <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,flask,mysql,postgres" /><br>
 </div>
 <div align="center">
     <h2 align="center">⚡ Tools ⚡</h2>
