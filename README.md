@@ -36,11 +36,11 @@
 <br/>
 <div align="center">
     <h2 align="center">⚡ Frontend ⚡</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vue" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" /><br>
 </div>
 <div align="center">
     <h2 align="center">⚡ Backend ⚡</h2>
-    <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,flask,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,flask,mysql,postgres,express" /><br>
 </div>
 <div align="center">
     <h2 align="center">⚡ Tools ⚡</h2>
